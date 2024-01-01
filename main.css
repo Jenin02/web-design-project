@@ -1,0 +1,14 @@
+body {
+    font-family: 'Grandstander', sans-serif;
+}
+
+h1, h2 {
+    font-weight: 900;
+}
+
+main.homepage section {
+    height: 100%;
+}
+main.homepage h2, main.homepage p {
+    text-align: center;
+}
